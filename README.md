@@ -20,4 +20,6 @@ Then, load the `index.html` file in your browser. If you are using Visual Studio
 3. Edit the generated atlas to set the `webp` extension in the asset metadata. It also minifies the Atlas JSON file.
 4. Load the spritesheet to PixiJS.
 
+---
+
 All the awesome images used here were kindly borrowed from [Bramble](https://www.bramble.live) and are used in its forest-themed spaces.
